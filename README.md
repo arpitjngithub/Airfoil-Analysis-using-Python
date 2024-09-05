@@ -31,6 +31,12 @@ This project involves the design and analysis of a glider model using OpenVSP an
 - Successfully designed a glider model that meets the specified criteria.
 - Developed reliable Python scripts for airfoil analysis, contributing to a better understanding of low-speed aerodynamics.
 
+## Acknowledgements
+- This project was conducted as part of the AE 244 course under the guidance of Prof. Dhwanil Shukla at the Department of Aerospace Engineering, IIT Bombay.
+
+## Contact Information
+For inquiries or collaboration opportunities, please contact arpitjain8302@gmail.com
+
 ## How to Use
 
 1. Clone the repository:  
