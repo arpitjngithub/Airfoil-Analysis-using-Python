@@ -43,3 +43,4 @@ For inquiries or collaboration opportunities, please contact arpitjain8302@gmail
    ```bash
    git clone https://github.com/arpitjngithub/Airfoil-Analysis-using-Python.git
    ```
+2. You can refer to the PDF files related to the project, where I have explained everything in detail.
